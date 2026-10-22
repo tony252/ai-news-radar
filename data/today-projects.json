@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:50:05.862386Z",
+  "generated_at": "2026-10-22T13:08:54.211232Z",
   "date": "2026-10-22",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T12:49:26.030268Z"
+      "observed_at": "2026-10-22T13:08:03.306159Z"
     },
     {
       "id": "project_10ce9ca7efc8",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Create, launch and scale winning ads with AI」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Create, launch and scale winning ads with AI\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-15T04:55:03Z",
-      "updated_at": "2026-10-22T12:48:58Z",
+      "updated_at": "2026-10-22T13:07:51Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T12:49:54.208718Z"
+      "observed_at": "2026-10-22T13:08:42.679256Z"
     },
     {
       "id": "project_dbd5adafc407",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T12:49:26.030268Z"
+      "observed_at": "2026-10-22T13:08:03.306159Z"
     },
     {
-      "id": "project_6e3e73917c38",
-      "project_name": "Playad",
-      "url": "https://www.producthunt.com/products/playad",
-      "summary": "Hire your AI Marketing Team",
+      "id": "project_88d15889a5ea",
+      "project_name": "Mercury 3",
+      "url": "https://www.producthunt.com/products/mercury-412",
+      "summary": "The diffusion LLM that scaled 40x without slowing down",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Hire your AI Marketing Team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Hire your AI Marketing Team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T10:56:22Z",
-      "updated_at": "2026-10-22T12:05:15Z",
+      "recommend_reason_zh": "体验它主打的「The diffusion LLM that scaled 40x without slowing down」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The diffusion LLM that scaled 40x without slowing down\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T09:51:21Z",
+      "updated_at": "2026-10-22T13:05:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T12:49:54.208718Z"
+      "observed_at": "2026-10-22T13:08:42.679256Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1319,
+      "duration_ms": 1475,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 88,
+      "duration_ms": 118,
       "error": null
     }
   ]

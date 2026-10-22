@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 12:49:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:08:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Ensemble forecasting with IBM Granite time-series models</title>
@@ -72,12 +72,12 @@
 <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
-<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-<description>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform (OpenAI News)</description>
+<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+<link>https://openai.com/index/att-legal</link>
+<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
+<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks</title>
@@ -152,20 +152,20 @@
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
 </item>
 <item>
-<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-<link>https://openai.com/index/att-legal</link>
-<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
-<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
 <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
 <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
 <description>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</description>
 <category>Industry news</category>
 <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人</title>
+<link>https://www.aibase.com/news/31810</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31810</guid>
+<description>Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 12:49:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
