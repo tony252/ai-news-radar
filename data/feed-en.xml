@@ -5,8 +5,24 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 15:03:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:04:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+<description>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+</item>
+<item>
+<title>Industry comparisons in the Copilot impact dashboard</title>
+<link>https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</guid>
+<description>Industry comparisons in the Copilot impact dashboard (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 16:28:24 +0000</pubDate>
+</item>
 <item>
 <title>Beyond tree cover: mapping the world’s forest types</title>
 <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types</link>
@@ -14,14 +30,6 @@
 <description>Beyond tree cover: mapping the world’s forest types (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-</item>
-<item>
-<title>Ensemble forecasting with IBM Granite time-series models</title>
-<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-<description>Ensemble forecasting with IBM Granite time-series models (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
 <title>What FDE means at OpenAI</title>
@@ -32,12 +40,44 @@
 <pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens</title>
-<link>https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens</guid>
-<description>GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens (GitHub Changelog)</description>
+<title>Pull requests: Saved whitespace preferences and improved split view</title>
+<link>https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view</guid>
+<description>Pull requests: Saved whitespace preferences and improved split view (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 16:43:23 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:24:56 +0000</pubDate>
+</item>
+<item>
+<title>Ensemble forecasting with IBM Granite time-series models</title>
+<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+<description>Ensemble forecasting with IBM Granite time-series models (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+</item>
+<item>
+<title>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</title>
+<link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
+<guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
+<description>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
+</item>
+<item>
+<title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+<link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+<guid isPermaLink="true">https://openai.com/index/uber-chatgpt-work-rollout</guid>
+<description>Uber brings ChatGPT Work to all employees with OpenAI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI Is Changing Everything About Hacking. No One Knows What Happens Next</title>
+<link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</link>
+<guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</guid>
+<description>AI Is Changing Everything About Hacking. No One Knows What Happens Next</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
 </item>
 <item>
 <title>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</title>
@@ -48,20 +88,20 @@
 <pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
-<link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-relational</guid>
-<description>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
+<title>Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
+<link>https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</link>
+<guid isPermaLink="true">https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</guid>
+<description>Red-Teaming OpenAI's Internal Agent Monitoring Systems</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
 </item>
 <item>
-<title>Broad access through consistent standards</title>
-<link>https://openai.com/index/broad-access-through-consistent-standards</link>
-<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
-<description>Broad access through consistent standards (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+<title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
+<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
+<guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</guid>
+<description>Hackers got a four-day head start on epic PHP2Shell vulnerability</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
 </item>
 <item>
 <title>Hold on to your hat. #KlingAI #Kling4</title>
@@ -120,52 +160,12 @@
 <pubDate>Thu, 22 Oct 2026 12:49:26 +0000</pubDate>
 </item>
 <item>
-<title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-<link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
-<description>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications (Hugging Face Blog)</description>
+<title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+<link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+<description>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
-</item>
-<item>
-<title>If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</title>
-<link>https://x.com/OpenAI/status/2112945805686604033</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2112945805686604033</guid>
-<description>If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
-</item>
-<item>
-<title>Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</title>
-<link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture</link>
-<guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture</guid>
-<description>Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</title>
-<link>https://x.com/Kling_ai/status/2113142473145078041</link>
-<guid isPermaLink="true">https://x.com/Kling_ai/status/2113142473145078041</guid>
-<description>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
-</item>
-<item>
-<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-<link>https://openai.com/index/att-legal</link>
-<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
-<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
-<link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
-<description>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
