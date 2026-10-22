@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:05:00.646740Z",
+  "generated_at": "2026-10-22T20:34:27.527441Z",
   "date": "2026-10-23",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T18:04:20.247537Z"
+      "observed_at": "2026-10-22T20:33:47.580605Z"
     },
     {
-      "id": "project_799d7395d3f7",
-      "project_name": "Claude Duet",
-      "url": "https://www.producthunt.com/products/claude",
-      "summary": "Proactive agent that understands what needs your attention",
+      "id": "project_10ce9ca7efc8",
+      "project_name": "Fastlane 2.0",
+      "url": "https://www.producthunt.com/products/fastlane-3",
+      "summary": "Create, launch and scale winning ads with AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Proactive agent that understands what needs your attention」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Proactive agent that understands what needs your attention\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T19:40:23Z",
-      "updated_at": "2026-10-22T18:03:17Z",
+      "recommend_reason_zh": "体验它主打的「Create, launch and scale winning ads with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Create, launch and scale winning ads with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-15T04:55:03Z",
+      "updated_at": "2026-10-22T20:18:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T18:04:51.134317Z"
+      "observed_at": "2026-10-22T20:34:17.127688Z"
     },
     {
       "id": "project_dbd5adafc407",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T18:04:20.247537Z"
+      "observed_at": "2026-10-22T20:33:47.580605Z"
     },
     {
-      "id": "project_be8465a650de",
-      "project_name": "Notif",
-      "url": "https://www.producthunt.com/products/notif-2",
-      "summary": "AI for your Apple Reminders",
+      "id": "project_3357b299e7fb",
+      "project_name": "Loom Record for agents",
+      "url": "https://www.producthunt.com/products/loom",
+      "summary": "Hit record and hand off to AI, now in the new Loom app",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI for your Apple Reminders」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI for your Apple Reminders\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T00:54:33Z",
-      "updated_at": "2026-10-22T18:03:19Z",
+      "recommend_reason_zh": "体验它主打的「Hit record and hand off to AI, now in the new Loom app」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Hit record and hand off to AI, now in the new Loom app\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-09T17:00:25Z",
+      "updated_at": "2026-10-22T20:32:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T18:04:51.134317Z"
+      "observed_at": "2026-10-22T20:34:17.127688Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1274,
+      "duration_ms": 1195,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 149,
+      "duration_ms": 243,
       "error": null
     }
   ]
