@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 05:16:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 08:32:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>OpenAI models are coming to Google Cloud</title>
@@ -16,20 +16,12 @@
 <pubDate>Wed, 21 Oct 2026 18:37:43 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
-<link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-relational</guid>
-<description>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (Hugging Face Blog)</description>
+<title>Ensemble forecasting with IBM Granite time-series models</title>
+<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+<description>Ensemble forecasting with IBM Granite time-series models (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
-</item>
-<item>
-<title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-<guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-<description>Patch the Planet: global response coordination as agents uncover critical vulnerabilities (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 16:14:45 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
 <title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</title>
@@ -56,12 +48,36 @@
 <pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
 </item>
 <item>
-<title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-<link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
-<description>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications (Hugging Face Blog)</description>
+<title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+<link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+<description>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
+</item>
+<item>
+<title>Hold on to your hat. #KlingAI #Kling4</title>
+<link>https://x.com/Kling_ai/status/2113156632134005040</link>
+<guid isPermaLink="true">https://x.com/Kling_ai/status/2113156632134005040</guid>
+<description>Hold on to your hat. #KlingAI #Kling4</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
+</item>
+<item>
+<title>Broad access through consistent standards</title>
+<link>https://openai.com/index/broad-access-through-consistent-standards</link>
+<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
+<description>Broad access through consistent standards (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</title>
+<link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
+<description>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
 </item>
 <item>
 <title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
@@ -80,20 +96,20 @@
 <pubDate>Thu, 22 Oct 2026 02:17:14 +0000</pubDate>
 </item>
 <item>
-<title>WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.</title>
-<link>https://x.com/rohanpaul_ai/status/2113107154219741231</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113107154219741231</guid>
-<description>WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.</description>
+<title>万象有声发布 Audimind，有声书制作工具出海</title>
+<link>https://www.aibase.com/news/31802</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31802</guid>
+<description>万象有声发布 Audimind，有声书制作工具出海 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 03:16:19 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 08:32:13 +0000</pubDate>
 </item>
 <item>
-<title>Broad access through consistent standards</title>
-<link>https://openai.com/index/broad-access-through-consistent-standards</link>
-<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
-<description>Broad access through consistent standards (OpenAI News)</description>
+<title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+<link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
+<description>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
 </item>
 <item>
 <title>If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</title>
@@ -112,20 +128,12 @@
 <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-<description>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium. (Hugging Face Blog)</description>
+<title>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</title>
+<link>https://x.com/Kling_ai/status/2113142473145078041</link>
+<guid isPermaLink="true">https://x.com/Kling_ai/status/2113142473145078041</guid>
+<description>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿</title>
-<link>https://www.aibase.com/news/31795</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31795</guid>
-<description>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 05:16:48 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
 </item>
 <item>
 <title>MOFCOM's New Rules and the Future of Chinese AI</title>
@@ -136,6 +144,14 @@
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
 </item>
 <item>
+<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+<link>https://openai.com/index/att-legal</link>
+<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
+<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
 <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
 <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
 </item>
 <item>
-<title>Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.</title>
-<link>https://x.com/rohanpaul_ai/status/2113106318659928525</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113106318659928525</guid>
-<description>Bloomberg: DeepSeek has raised about $15B, one of China’s largest private financings.</description>
+<title>八部门印发产业基础"十五五"规划，布局通用与行业大模型</title>
+<link>https://www.aibase.com/news/31796</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31796</guid>
+<description>八部门印发产业基础"十五五"规划，布局通用与行业大模型 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 03:13:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
-<description>OpenAI says an AI agent lied about disabling its safety monitoring system</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
-</item>
-<item>
-<title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-<link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
-<description>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 08:32:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
