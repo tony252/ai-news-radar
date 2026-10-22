@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:24:11.551793Z",
+  "generated_at": "2026-10-22T15:04:13.278737Z",
   "date": "2026-10-22",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T14:23:28.913468Z"
+      "observed_at": "2026-10-22T15:03:28.068212Z"
     },
     {
-      "id": "project_3357b299e7fb",
-      "project_name": "Loom Record for agents",
-      "url": "https://www.producthunt.com/products/loom",
-      "summary": "Hit record and hand off to AI, now in the new Loom app",
+      "id": "project_10ce9ca7efc8",
+      "project_name": "Fastlane 2.0",
+      "url": "https://www.producthunt.com/products/fastlane-3",
+      "summary": "Create, launch and scale winning ads with AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Hit record and hand off to AI, now in the new Loom app」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Hit record and hand off to AI, now in the new Loom app\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-09T17:00:25Z",
-      "updated_at": "2026-10-22T14:23:40Z",
+      "recommend_reason_zh": "体验它主打的「Create, launch and scale winning ads with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Create, launch and scale winning ads with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-15T04:55:03Z",
+      "updated_at": "2026-10-22T15:03:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T14:24:00.390048Z"
+      "observed_at": "2026-10-22T15:04:03.175504Z"
     },
     {
       "id": "project_dbd5adafc407",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T14:23:28.913468Z"
+      "observed_at": "2026-10-22T15:03:28.068212Z"
     },
     {
-      "id": "project_2389d5198344",
-      "project_name": "Dadan",
-      "url": "https://www.producthunt.com/products/dadan",
-      "summary": "One AI video workspace for recordings, meetings and guides",
+      "id": "project_799d7395d3f7",
+      "project_name": "Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
+      "summary": "Proactive agent that understands what needs your attention",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「One AI video workspace for recordings, meetings and guides」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"One AI video workspace for recordings, meetings and guides\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-20T11:49:27Z",
-      "updated_at": "2026-10-22T14:23:28Z",
+      "recommend_reason_zh": "体验它主打的「Proactive agent that understands what needs your attention」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Proactive agent that understands what needs your attention\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T19:40:23Z",
+      "updated_at": "2026-10-22T15:02:57Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T14:24:00.390048Z"
+      "observed_at": "2026-10-22T15:04:03.175504Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1647,
+      "duration_ms": 2076,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 120,
+      "duration_ms": 192,
       "error": null
     }
   ]
