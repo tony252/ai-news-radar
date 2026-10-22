@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 13:08:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 14:23:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Ensemble forecasting with IBM Granite time-series models</title>
@@ -16,20 +16,12 @@
 <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
-<title>Broad access through consistent standards</title>
-<link>https://openai.com/index/broad-access-through-consistent-standards</link>
-<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
-<description>Broad access through consistent standards (OpenAI News)</description>
+<title>What FDE means at OpenAI</title>
+<link>https://openai.com/index/forward-deployed-engineering-means</link>
+<guid isPermaLink="true">https://openai.com/index/forward-deployed-engineering-means</guid>
+<description>What FDE means at OpenAI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</title>
-<link>https://www.wiz.io/blog/php2shell-php-rce</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/php2shell-php-rce</guid>
-<description>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</description>
-<category>Multi-source buzz</category>
-<pubDate>Wed, 21 Oct 2026 14:39:53 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens</title>
@@ -56,6 +48,14 @@
 <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
 </item>
 <item>
+<title>Broad access through consistent standards</title>
+<link>https://openai.com/index/broad-access-through-consistent-standards</link>
+<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
+<description>Broad access through consistent standards (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Hold on to your hat. #KlingAI #Kling4</title>
 <link>https://x.com/Kling_ai/status/2113156632134005040</link>
 <guid isPermaLink="true">https://x.com/Kling_ai/status/2113156632134005040</guid>
@@ -72,12 +72,12 @@
 <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
 </item>
 <item>
-<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-<link>https://openai.com/index/att-legal</link>
-<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
-<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+<title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
+<link>https://x.com/Khazix0918/status/2113096414469464281</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2113096414469464281</guid>
+<description>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 02:33:39 +0000</pubDate>
 </item>
 <item>
 <title>An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks</title>
@@ -88,12 +88,12 @@
 <pubDate>Thu, 22 Oct 2026 11:30:56 +0000</pubDate>
 </item>
 <item>
-<title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
-<link>https://x.com/Khazix0918/status/2113096414469464281</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2113096414469464281</guid>
-<description>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</description>
+<title>ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors</title>
+<link>https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</guid>
+<description>ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 02:33:39 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 13:05:31 +0000</pubDate>
 </item>
 <item>
 <title>消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO</title>
@@ -144,12 +144,12 @@
 <pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
 </item>
 <item>
-<title>MOFCOM's New Rules and the Future of Chinese AI</title>
-<link>https://www.chinatalk.media/p/mofcoms-new-ai-rules</link>
-<guid isPermaLink="true">https://www.chinatalk.media/p/mofcoms-new-ai-rules</guid>
-<description>MOFCOM's New Rules and the Future of Chinese AI</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
+<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+<link>https://openai.com/index/att-legal</link>
+<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
+<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
