@@ -1,162 +1,8 @@
 {
-  "generated_at": "2026-10-22T08:32:13.990869Z",
+  "generated_at": "2026-10-22T12:49:26.030268Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_35d2cfa7a29f",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": null,
-          "title_original": "OpenAI 模型即将登陆 Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": null,
-          "title_original": "OpenAI 模型即将登陆 Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7434,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T18:37:43.968000Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "title_original": "OpenAI models are coming to Google Cloud",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
-      }
-    },
     {
       "story_id": "story_30ae19eb5cdf",
       "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
@@ -206,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9902,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
+      }
+    },
+    {
+      "story_id": "story_0fece06d289b",
+      "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
+          "title_zh": "通过统一标准实现广泛接入",
+          "title_en": "Broad access through consistent standards",
+          "title_original": "Broad access through consistent standards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
+          "title_zh": "通过统一标准实现广泛接入",
+          "title_en": "Broad access through consistent standards",
+          "title_original": "Broad access through consistent standards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T21:00:00Z",
+      "latest_at": "2026-10-21T21:00:00Z",
+      "primary_item": {
+        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+        "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
+        "title_zh": "通过统一标准实现广泛接入",
+        "title_en": "Broad access through consistent standards",
+        "title_original": "Broad access through consistent standards",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/broad-access-through-consistent-standards",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -359,15 +292,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7598,
+        "recency": 0.7142,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -394,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -446,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7958,
+        "recency": 0.7481,
         "story_heat": 0.0
       },
       "category": "official",
@@ -481,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -533,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -619,15 +552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8158,
+        "recency": 0.7669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -706,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -740,94 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
-      }
-    },
-    {
-      "story_id": "story_0fece06d289b",
-      "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
-          "title_zh": "通过统一标准实现广泛接入",
-          "title_en": "Broad access through consistent standards",
-          "title_original": "Broad access through consistent standards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
-          "title_zh": "通过统一标准实现广泛接入",
-          "title_en": "Broad access through consistent standards",
-          "title_original": "Broad access through consistent standards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8465,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T21:00:00Z",
-      "latest_at": "2026-10-21T21:00:00Z",
-      "primary_item": {
-        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-        "title": "通过统一标准实现广泛接入 / Broad access through consistent standards",
-        "title_zh": "通过统一标准实现广泛接入",
-        "title_en": "Broad access through consistent standards",
-        "title_original": "Broad access through consistent standards",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/broad-access-through-consistent-standards",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -879,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,7 +759,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
+      }
+    },
+    {
+      "story_id": "story_369288508eca",
+      "title": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7089,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:00:00Z",
+      "latest_at": "2026-10-21T13:00:00Z",
+      "primary_item": {
+        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+        "title": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_zh": "ChatGPT Ads扩展至26个新国家，已有超过10万广告商使用该平台",
+        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T12:50:25.010243Z"
+      }
+    },
+    {
+      "story_id": "story_2100e4464c25",
+      "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "primary_url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "title_zh": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "title_en": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "title_original": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "summary": "Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T11:30:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "title_zh": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "title_en": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "title_original": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "summary": "Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T11:30:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T11:30:56Z",
+      "latest_at": "2026-10-22T11:30:56Z",
+      "primary_item": {
+        "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+        "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+        "title_zh": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+        "title_en": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+        "title_original": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+        "summary": "Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -965,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.8623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1051,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.8589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,30 +1104,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
-      "story_id": "story_507d7c740399",
-      "title": "万象有声发布 Audimind，有声书制作工具出海",
-      "url": "https://www.aibase.com/news/31802",
-      "primary_url": "https://www.aibase.com/news/31802",
+      "story_id": "story_3eeb2af7db81",
+      "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+      "url": "https://www.aibase.com/news/31807",
+      "primary_url": "https://www.aibase.com/news/31807",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "title_zh": "万象有声发布 Audimind，有声书制作工具出海",
+          "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
+          "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
           "title_en": null,
-          "title_original": "万象有声发布 Audimind，有声书制作工具出海",
+          "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31802",
+          "url": "https://www.aibase.com/news/31807",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T08:32:13.990869Z",
+          "published_at": "2026-10-22T12:49:26.030268Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1119,18 +1138,18 @@
       ],
       "items": [
         {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "title_zh": "万象有声发布 Audimind，有声书制作工具出海",
+          "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
+          "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+          "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
           "title_en": null,
-          "title_original": "万象有声发布 Audimind，有声书制作工具出海",
+          "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31802",
+          "url": "https://www.aibase.com/news/31807",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T08:32:13.990869Z",
+          "published_at": "2026-10-22T12:49:26.030268Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1153,17 +1172,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T08:32:13.990869Z",
-      "latest_at": "2026-10-22T08:32:13.990869Z",
+      "earliest_at": "2026-10-22T12:49:26.030268Z",
+      "latest_at": "2026-10-22T12:49:26.030268Z",
       "primary_item": {
-        "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-        "title": "万象有声发布 Audimind，有声书制作工具出海",
-        "title_zh": "万象有声发布 Audimind，有声书制作工具出海",
+        "id": "75c33e996ac35be153d3733042b5408c4f3b3df2",
+        "title": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
+        "title_zh": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
         "title_en": null,
-        "title_original": "万象有声发布 Audimind，有声书制作工具出海",
+        "title_original": "AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31802",
+        "url": "https://www.aibase.com/news/31807",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1171,7 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1223,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8059,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1258,7 +1277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1310,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7943,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1396,15 +1415,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1430,7 +1449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1482,15 +1501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1516,7 +1535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1568,21 +1587,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-21T13:43:39Z",
       "latest_at": "2026-10-21T13:43:39Z",
@@ -1602,7 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1654,15 +1672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.799,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1689,7 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     },
     {
@@ -1741,21 +1759,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8105,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-21T17:59:12Z",
       "latest_at": "2026-10-21T17:59:12Z",
@@ -1775,93 +1792,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
-      }
-    },
-    {
-      "story_id": "story_e3563d5bd347",
-      "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-      "url": "https://www.aibase.com/news/31796",
-      "primary_url": "https://www.aibase.com/news/31796",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-          "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "title_zh": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "title_en": null,
-          "title_original": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31796",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T08:32:13.990869Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-          "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "title_zh": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "title_en": null,
-          "title_original": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31796",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T08:32:13.990869Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T08:32:13.990869Z",
-      "latest_at": "2026-10-22T08:32:13.990869Z",
-      "primary_item": {
-        "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-        "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-        "title_zh": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-        "title_en": null,
-        "title_original": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31796",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T08:33:08.965083Z"
+        "scored_at": "2026-10-22T12:50:25.010243Z"
       }
     }
   ]

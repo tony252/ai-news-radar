@@ -5,16 +5,8 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:32:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:49:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
-<item>
-<title>OpenAI models are coming to Google Cloud</title>
-<link>https://openai.com/index/openai-models-google-cloud</link>
-<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-<description>OpenAI models are coming to Google Cloud (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 18:37:43 +0000</pubDate>
-</item>
 <item>
 <title>Ensemble forecasting with IBM Granite time-series models</title>
 <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
@@ -22,6 +14,14 @@
 <description>Ensemble forecasting with IBM Granite time-series models (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+</item>
+<item>
+<title>Broad access through consistent standards</title>
+<link>https://openai.com/index/broad-access-through-consistent-standards</link>
+<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
+<description>Broad access through consistent standards (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
 </item>
 <item>
 <title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</title>
@@ -64,20 +64,28 @@
 <pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
 </item>
 <item>
-<title>Broad access through consistent standards</title>
-<link>https://openai.com/index/broad-access-through-consistent-standards</link>
-<guid isPermaLink="true">https://openai.com/index/broad-access-through-consistent-standards</guid>
-<description>Broad access through consistent standards (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
 <title>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</title>
 <link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
 <description>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+<description>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks</title>
+<link>https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks</link>
+<guid isPermaLink="true">https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks</guid>
+<description>An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 11:30:56 +0000</pubDate>
 </item>
 <item>
 <title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
@@ -96,12 +104,12 @@
 <pubDate>Thu, 22 Oct 2026 02:17:14 +0000</pubDate>
 </item>
 <item>
-<title>万象有声发布 Audimind，有声书制作工具出海</title>
-<link>https://www.aibase.com/news/31802</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31802</guid>
-<description>万象有声发布 Audimind，有声书制作工具出海 (AIbase)</description>
+<title>AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告</title>
+<link>https://www.aibase.com/news/31807</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31807</guid>
+<description>AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 08:32:13 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 12:49:26 +0000</pubDate>
 </item>
 <item>
 <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
@@ -158,14 +166,6 @@
 <description>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</description>
 <category>Industry news</category>
 <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
-</item>
-<item>
-<title>八部门印发产业基础"十五五"规划，布局通用与行业大模型</title>
-<link>https://www.aibase.com/news/31796</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31796</guid>
-<description>八部门印发产业基础"十五五"规划，布局通用与行业大模型 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 08:32:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
