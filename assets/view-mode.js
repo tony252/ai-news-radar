@@ -9,8 +9,11 @@
   const script = document.currentScript;
   const rootHint = script?.dataset.root || "./";
   const rootUrl = new URL(rootHint, window.location.href);
-  // 英文版（data-root=/en/）只有手机版一个视角：经典版暂无英文，不渲染入口，也不读取/写入视角偏好。
-  const classicAvailable = !/^\/en\/?$/.test(rootHint);
+  // 英文版只有手机版一个视角：经典版暂无英文，不渲染入口，也不读取/写入视角偏好。
+  // 判据用页面语言（<html lang>），不依赖 data-root 的写法——data-root 既可能是
+  // 独占域名下的 "/en/"，也可能是子路径部署下的 "../"，两种都要认成英文版。
+  const isEnglishPage = /^en/i.test(document.documentElement?.lang || "");
+  const classicAvailable = !isEnglishPage;
   const currentView = document.documentElement.dataset.radarView || "mobile";
   const params = new URLSearchParams(window.location.search);
   const requestedView = params.get("view") || "";
@@ -84,9 +87,9 @@
   const targetView = classicAvailable ? (preference || deviceDefault) : deviceDefault;
 
   function destination(view) {
+    // 英文版只有手机版一个视角，永远停在当前页面。
+    if (!classicAvailable) return new URL(".", window.location.href);
     const url = new URL(view === "classic" ? "classic/" : "./", rootUrl);
-    // trailingSlash=false 时 /en/ 会 308 到 /en，规范地址不带斜杠
-    if (url.pathname === "/en/") url.pathname = "/en";
     const passthrough = new URLSearchParams(window.location.search);
     passthrough.delete("view");
     url.search = passthrough.toString();

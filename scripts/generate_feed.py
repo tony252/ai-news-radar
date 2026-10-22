@@ -2,7 +2,7 @@
 """Generate an RSS 2.0 feed from the curated daily brief.
 
 Output lands at data/feed.xml so the workflow's ``git add data/`` publishes it
-with every hourly snapshot. Public URL: https://news.learnprompt.pro/data/feed.xml
+with every hourly snapshot. Public URL: https://tony252.github.io/ai-news-radar/data/feed.xml
 
 Feed content is the curated layer (daily-brief clusters, persona-reviewed);
 falls back to top AI-scored items from latest-24h.json when the brief is
@@ -13,14 +13,15 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-SITE = "https://news.learnprompt.pro"
+SITE = os.environ.get("RADAR_SITE_URL", "https://tony252.github.io/ai-news-radar").rstrip("/")
 FEED_PATH = "data/feed.xml"
-EN_FEED_URL_PATH = "en/feed.xml"  # public URL of the English feed (vercel rewrite -> data/feed-en.xml)
+EN_FEED_URL_PATH = "data/feed-en.xml"  # GitHub Pages serves the file directly (no rewrite needed)
 MAX_ITEMS = 20
 
 _CJK_RE = re.compile(r"[\u3000-\u303f\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af\uff00-\uffef]")

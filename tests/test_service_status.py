@@ -102,11 +102,12 @@ def test_invalid_api_response_is_not_reported_as_healthy():
 
 def test_both_pages_load_existing_shared_assets_and_preserve_domain():
     root = Path(__file__).resolve().parents[1]
-    for name, prefix in (("index.html", "./"), ("classic/index.html", "../")):
+    for name, prefix in (("index.html", "./"), ("classic/index.html", "./")):
         source = (root / name).read_text()
         assert source.count('id="serviceStatusPanel"') == 1
         assert f'{prefix}assets/service-status.js?v=20260909' in source
         assert f'{prefix}assets/service-status.css?v=20260909' in source
-        assert 'https://news.learnprompt.pro/' in source
+        assert 'https://tony252.github.io/ai-news-radar/' in source
         assert '1625517181-jpg' not in source
-    assert (root / 'CNAME').read_text().strip() == 'news.learnprompt.pro'
+    # fork 部署在仓库子路径下，不再用 CNAME 把 Pages 指到上游域名
+    assert not (root / 'CNAME').exists()

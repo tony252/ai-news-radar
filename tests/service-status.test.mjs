@@ -5,7 +5,7 @@ import vm from 'node:vm';
 
 const source = readFileSync(new URL('../assets/service-status.js', import.meta.url), 'utf8');
 
-async function render(payload, { script = 'https://news.learnprompt.pro/assets/service-status.js', search = '', fail = false } = {}) {
+async function render(payload, { script = 'https://tony252.github.io/ai-news-radar/assets/service-status.js', search = '', fail = false } = {}) {
   const element = () => ({
     children: [], hidden: true, classList: { toggle() {} },
     append(...items) { this.children.push(...items); },
@@ -49,7 +49,7 @@ test('hides resolved, failed and stale snapshots', async () => {
 });
 
 test('shared script resolves data correctly from either page and accepts an explicit data base', async () => {
-  assert.equal((await render(snapshot())).requested, 'https://news.learnprompt.pro/data/service-status.json');
+  assert.equal((await render(snapshot())).requested, 'https://tony252.github.io/ai-news-radar/data/service-status.json');
   assert.equal((await render(snapshot(), { search: '?data=https://example.com/demo/data' })).requested,
     'https://example.com/demo/data/service-status.json');
 });

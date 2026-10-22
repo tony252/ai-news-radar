@@ -94,14 +94,14 @@ test("中文站渲染与改造前逐字节一致（快照）", () => {
   assert.deepEqual(JSON.parse(stdout), golden);
 });
 
-test("英文站渲染：无中文 UI 串、自媒体整块隐藏、数据走 /data/ 绝对路径", async () => {
+test("英文站渲染：无中文 UI 串、自媒体整块隐藏、数据走站点根 ../data/", async () => {
   const out = await runScenario({ appPath: APP, lang: "en" });
   const text = JSON.stringify(out);
   assert.ok(!CJK.test(text), `EN 渲染里出现中文: ${text.match(/.{20}[㐀-鿿]+.{10}/)?.[0]}`);
   assert.ok(!/Creators|tikhub|Douyin|WeChat/i.test(text.replace(/TikHub Douyin/g, "")), "自媒体栏目/条目应隐藏");
   assert.ok(!/data-section":\s*"creator"|"section":\s*"creator"/.test(text));
-  assert.deepEqual(out.requested.filter((url) => !url.startsWith("/data/")), []);
-  assert.ok(out.requested.includes("/data/latest-24h.json"));
+  assert.deepEqual(out.requested.filter((url) => !url.startsWith("../data/")), []);
+  assert.ok(out.requested.includes("../data/latest-24h.json"));
   // 空结果态使用英文串
   assert.match(text, /No matching results/);
 });
@@ -121,11 +121,11 @@ test("?data= 覆盖对 zh / en 都生效，且只拼文件名", async () => {
   }
 });
 
-test("dataUrl：zh 保持相对路径，en 取站点根 /data/", async () => {
+test("dataUrl：zh 保持相对路径，en 取站点根 ../data/", async () => {
   const zh = (await runScenario({ appPath: APP, lang: "zh" })).context;
   const en = (await runScenario({ appPath: APP, lang: "en" })).context;
   assert.equal(vm.runInContext('dataUrl("data/x.json")', zh), "data/x.json");
-  assert.equal(vm.runInContext('dataUrl("data/x.json")', en), "/data/x.json");
+  assert.equal(vm.runInContext('dataUrl("data/x.json")', en), "../data/x.json");
   assert.equal(vm.runInContext('dataUrl("/data/x.json")', en), "/data/x.json");
   assert.equal(vm.runInContext('dataUrl("https://cdn.example.com/x.json")', en), "https://cdn.example.com/x.json");
 });
@@ -187,7 +187,7 @@ async function renderStatus(lang, withI18n) {
   });
   const panel = element();
   const context = {
-    document: { getElementById: () => panel, createElement: element, currentScript: { src: "https://news.learnprompt.pro/assets/service-status.js" },
+    document: { getElementById: () => panel, createElement: element, currentScript: { src: "https://tony252.github.io/ai-news-radar/assets/service-status.js" },
       documentElement: { lang: lang === "en" ? "en" : "zh-CN" } },
     window: { location: { search: "" }, setTimeout, clearTimeout },
     localStorage: { getItem: () => "" }, URL, URLSearchParams, AbortController, Intl, Date,

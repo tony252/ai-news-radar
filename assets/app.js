@@ -66,15 +66,26 @@ state.dataBaseUrl = resolveDataBaseUrl();
 // 所有 data/*.json 抓取都必须经过这个 helper，才能让 ?data= / localStorage 覆盖生效。
 // 传入的 path 可能是 "data/xxx.json"（本地默认）或后端下发的同款相对路径；
 // 一旦切换到远端 base，只拼文件名，避免拼出 base/data/xxx.json 这种双重 data/ 路径。
-// 站点根（<html data-root>）为绝对路径（如 /en/）时，本地数据取站点根下的 /data/…；
-// zh 页没有 data-root，保持原来的相对路径。?data= / localStorage 覆盖永远优先。
-const DATA_ROOT_ABSOLUTE = String(document.documentElement?.dataset?.root || "").startsWith("/");
+// 站点根（<html data-root>）指向站点根目录时（绝对路径 "/en/"，或子路径部署下的 "../"），
+// 本地数据取站点根下的 data/…；zh 页没有 data-root，保持原来的相对路径。
+// ?data= / localStorage 覆盖永远优先。
+const DATA_ROOT_HINT = String(document.documentElement?.dataset?.root || "");
+const DATA_ROOT_ABSOLUTE = DATA_ROOT_HINT.startsWith("/");
+const DATA_ROOT_RELATIVE = /^\.\.?($|\/)/.test(DATA_ROOT_HINT);
 
 function dataUrl(path) {
   const base = state.dataBaseUrl;
   if (!base) {
     const raw = String(path || "");
-    if (!DATA_ROOT_ABSOLUTE || raw.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(raw)) return path;
+    if (raw.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(raw)) return path;
+    // data-root 存在且指向站点根时，数据统一从站点根目录取。
+    if (DATA_ROOT_ABSOLUTE) return `/${raw}`;
+    if (DATA_ROOT_RELATIVE) {
+      const root = DATA_ROOT_HINT.replace(/\/+$/, "");
+      return root ? `${root}/${raw}` : raw;
+    }
+    // zh 页没有 data-root，保持原来的相对路径。
+    if (!DATA_ROOT_ABSOLUTE) return path;
     return `/${raw}`;
   }
   const file = String(path || "").split("/").pop();

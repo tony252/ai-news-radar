@@ -71,7 +71,7 @@ def test_flags_missing_self_reference_in_hreflang(sandbox):
     module, root = sandbox
     page = root / "en/index.html"
     text = page.read_text(encoding="utf-8").replace(
-        '<link rel="alternate" hreflang="en" href="https://news.learnprompt.pro/en" />\n', "")
+        '<link rel="alternate" hreflang="en" href="https://tony252.github.io/ai-news-radar/en/" />\n', "")
     page.write_text(text, encoding="utf-8")
     assert any("hreflang" in error for error in errors_of(module))
 
@@ -80,14 +80,15 @@ def test_flags_canonical_mismatch(sandbox):
     module, root = sandbox
     page = root / "en/index.html"
     page.write_text(page.read_text(encoding="utf-8").replace(
-        'rel="canonical" href="https://news.learnprompt.pro/en"', 'rel="canonical" href="https://news.learnprompt.pro/en/"'), encoding="utf-8")
+        'rel="canonical" href="https://tony252.github.io/ai-news-radar/en/"',
+        'rel="canonical" href="https://tony252.github.io/ai-news-radar/en"'), encoding="utf-8")
     assert any("canonical" in error for error in errors_of(module))
 
 
 def test_flags_sitemap_url_without_file(sandbox):
     module, root = sandbox
     sitemap = root / "sitemap.xml"
-    sitemap.write_text(sitemap.read_text(encoding="utf-8").replace("/classic</loc>", "/nowhere</loc>"), encoding="utf-8")
+    sitemap.write_text(sitemap.read_text(encoding="utf-8").replace("/classic/</loc>", "/nowhere/</loc>"), encoding="utf-8")
     assert any("nowhere" in error for error in errors_of(module))
 
 
@@ -102,8 +103,15 @@ def test_flags_key_parity_and_stale_generated_js(sandbox):
     assert "out of sync" in messages
 
 
-def test_flags_relative_asset_paths_in_english_page(sandbox):
+def test_flags_root_absolute_asset_paths_in_english_page(sandbox):
     module, root = sandbox
     page = root / "en/index.html"
-    page.write_text(page.read_text(encoding="utf-8").replace('href="/assets/styles.css', 'href="./assets/styles.css'), encoding="utf-8")
-    assert any("relative" in error for error in errors_of(module))
+    page.write_text(page.read_text(encoding="utf-8").replace('href="../assets/styles.css', 'href="/assets/styles.css'), encoding="utf-8")
+    assert any("root-absolute" in error for error in errors_of(module))
+
+
+def test_flags_broken_relative_asset_paths_in_english_page(sandbox):
+    module, root = sandbox
+    page = root / "en/index.html"
+    page.write_text(page.read_text(encoding="utf-8").replace('href="../assets/styles.css', 'href="../assets/nope.css'), encoding="utf-8")
+    assert any("does not exist" in error for error in errors_of(module))

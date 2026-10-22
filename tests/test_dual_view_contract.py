@@ -135,9 +135,9 @@ def test_today_projects_load_independently_in_both_views():
 
 def test_zh_page_declares_hreflang_rss_and_loads_i18n_before_app():
     source = read("index.html")
-    assert 'hreflang="zh-CN" href="https://news.learnprompt.pro/"' in source
-    assert 'hreflang="en" href="https://news.learnprompt.pro/en"' in source
-    assert 'hreflang="x-default" href="https://news.learnprompt.pro/"' in source
+    assert 'hreflang="zh-CN" href="https://tony252.github.io/ai-news-radar/"' in source
+    assert 'hreflang="en" href="https://tony252.github.io/ai-news-radar/en/"' in source
+    assert 'hreflang="x-default" href="https://tony252.github.io/ai-news-radar/"' in source
     assert 'type="application/rss+xml"' in source
     assert source.index("assets/i18n/zh.js") < source.index("assets/i18n.js") < source.index("assets/app.js")
     assert source.index("assets/i18n.js") < source.index("assets/service-status.js")
@@ -146,12 +146,12 @@ def test_zh_page_declares_hreflang_rss_and_loads_i18n_before_app():
 def test_english_page_is_the_mobile_view_rooted_at_en():
     source = read("en/index.html")
     assert '<html lang="en"' in source
-    assert 'data-root="/en/"' in source
-    assert 'src="/assets/view-mode.js' in source
-    assert source.index("/assets/i18n/en.js") < source.index("/assets/i18n.js") < source.index("/assets/app.js")
-    # all local resources are absolute: the page is served from /en, so "./" would 404
-    assert 'src="./' not in source and 'href="./' not in source
-    assert 'href="/site.webmanifest"' in source
+    assert 'data-root="../"' in source
+    assert 'src="../assets/view-mode.js' in source
+    assert source.index("../assets/i18n/en.js") < source.index("../assets/i18n.js") < source.index("../assets/app.js")
+    # 本地资源用 ../ 相对路径：独占域名(/en/)和仓库子路径(/ai-news-radar/en/)都能命中
+    assert 'src="/assets' not in source and 'href="/assets' not in source
+    assert 'href="../site.webmanifest"' in source
 
 
 def test_english_page_has_no_classic_entry_and_no_view_switch():
@@ -163,11 +163,11 @@ def test_english_page_has_no_classic_entry_and_no_view_switch():
 
 def test_english_page_declares_hreflang_canonical_and_rss():
     source = read("en/index.html")
-    assert '<link rel="canonical" href="https://news.learnprompt.pro/en" />' in source
-    assert 'hreflang="zh-CN" href="https://news.learnprompt.pro/"' in source
-    assert 'hreflang="en" href="https://news.learnprompt.pro/en"' in source
-    assert 'hreflang="x-default" href="https://news.learnprompt.pro/"' in source
-    assert 'type="application/rss+xml" title="AI News Radar" href="/en/feed.xml"' in source
+    assert '<link rel="canonical" href="https://tony252.github.io/ai-news-radar/en/" />' in source
+    assert 'hreflang="zh-CN" href="https://tony252.github.io/ai-news-radar/"' in source
+    assert 'hreflang="en" href="https://tony252.github.io/ai-news-radar/en/"' in source
+    assert 'hreflang="x-default" href="https://tony252.github.io/ai-news-radar/"' in source
+    assert 'type="application/rss+xml" title="AI News Radar" href="../data/feed-en.xml"' in source
 
 
 def test_english_page_keeps_the_same_section_layout_as_zh():
@@ -187,7 +187,9 @@ def test_english_page_keeps_the_same_section_layout_as_zh():
 
 def test_view_router_skips_classic_when_rooted_at_en():
     source = read("assets/view-mode.js")
-    assert "const classicAvailable = !/^\\/en\\/?$/.test(rootHint)" in source
+    # 英文版判据用页面语言，不依赖 data-root 的具体写法
+    assert 'const isEnglishPage = /^en/i.test(document.documentElement?.lang || "")' in source
+    assert "const classicAvailable = !isEnglishPage" in source
     assert "classicAvailable ? (preference || deviceDefault) : deviceDefault" in source
     assert "!classicAvailable" in source
 
@@ -200,9 +202,21 @@ def test_data_urls_resolve_from_site_root_on_the_english_page():
     assert 'return `${base}/${file}`' in source
 
 
+def test_classic_page_loads_shared_assets_from_the_site_root():
+    # classic/index.html 带 <base href="../">，共享资源必须写成 ./assets/…（= 站点根），
+    # 写 ../assets/… 会跳到仓库上一级，子路径部署下 404。
+    source = read("classic/index.html")
+    assert '<base href="../" />' in source
+    assert 'src="./assets/service-status.js' in source
+    assert 'href="./assets/service-status.css' in source
+    assert 'src="../assets/service-status.js' not in source
+    assert 'href="../assets/service-status.css' not in source
+
+
 def test_sitemap_robots_and_feed_rewrite_exist():
-    assert "https://news.learnprompt.pro/en" in read("sitemap.xml")
-    assert "Sitemap: https://news.learnprompt.pro/sitemap.xml" in read("robots.txt")
+    assert "https://tony252.github.io/ai-news-radar/en/" in read("sitemap.xml")
+    assert "Sitemap: https://tony252.github.io/ai-news-radar/sitemap.xml" in read("robots.txt")
     config = json.loads(read("vercel.json"))
+    # GitHub Pages 直接提供 data/feed-en.xml，rewrite 只是 Vercel 侧的兼容保留
     assert {"source": "/en/feed.xml", "destination": "/data/feed-en.xml"} in config["rewrites"]
     assert config["headers"][0]["source"] == "/data/(.*)"

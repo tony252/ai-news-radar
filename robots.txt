@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://news.learnprompt.pro/sitemap.xml
+Sitemap: https://tony252.github.io/ai-news-radar/sitemap.xml

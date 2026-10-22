@@ -7,7 +7,7 @@
 **It finds the thoroughbreds among your sources, merges scattered updates into story timelines, then reviews each day's headlines from three distinct personas.**
 
 [![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![Live](https://img.shields.io/badge/Live-news.learnprompt.pro-green?style=flat-square)](https://news.learnprompt.pro)
+[![Live](https://img.shields.io/badge/Live-tony252.github.io-green?style=flat-square)](https://tony252.github.io/ai-news-radar/)
 [![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20Scout-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
@@ -18,7 +18,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 Then ask your agent: `What happened in AI today?`
 
-**Live site** → [news.learnprompt.pro](https://news.learnprompt.pro) (data source / fallback: [learnprompt.github.io/ai-news-radar](https://learnprompt.github.io/ai-news-radar/))
+**Live site** → [tony252.github.io/ai-news-radar](https://tony252.github.io/ai-news-radar/) (upstream original: [news.learnprompt.pro](https://news.learnprompt.pro))
 
 [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
@@ -34,11 +34,11 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [news.learnprompt.pro](https://news.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review. When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
+**② Read the site directly** → open [tony252.github.io/ai-news-radar](https://tony252.github.io/ai-news-radar/). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review. When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
-**English edition** → [news.learnprompt.pro/en](https://news.learnprompt.pro/en) is the same radar in English (mobile view only; the classic view stays Chinese for now). Titles, summaries and "why it matters" lines prefer the `en` field the pipeline writes into `data/` (the "why it matters" line never falls back to Chinese); Douyin / Xiaohongshu creator content is hidden. Its RSS feed is `/en/feed.xml`, and the Chinese and English pages point at each other with `hreflang` (both listed in `sitemap.xml`). UI strings live in `assets/i18n/zh.json` and `en.json`; after editing them run `node scripts/build_i18n.mjs`, and CI runs `python scripts/check_i18n_site.py` to keep the two pages, the sitemap and the catalogs consistent.
+**English edition** → [tony252.github.io/ai-news-radar/en/](https://tony252.github.io/ai-news-radar/en/) is the same radar in English (mobile view only; the classic view stays Chinese for now). Titles, summaries and "why it matters" lines prefer the `en` field the pipeline writes into `data/` (the "why it matters" line never falls back to Chinese); Douyin / Xiaohongshu creator content is hidden. Its RSS feed is `/data/feed-en.xml`, and the Chinese and English pages point at each other with `hreflang` (both listed in `sitemap.xml`). UI strings live in `assets/i18n/zh.json` and `en.json`; after editing them run `node scripts/build_i18n.mjs`, and CI runs `python scripts/check_i18n_site.py` to keep the two pages, the sitemap and the catalogs consistent.
 
 The three lanes are one road: let your agent read the brief → read the site yourself → run your own radar.
 

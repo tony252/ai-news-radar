@@ -139,7 +139,8 @@ export async function runScenario({ appPath, lang, search = "", fixtures = defau
   const nodes = new Map();
   const byClass = new Map();
   const doc = {
-    documentElement: { lang: lang === "en" ? "en" : "zh-CN", dataset: lang === "en" ? { root: "/en/" } : {} },
+    // 英文页的 data-root 用 "../"（站点根），这样独占域名和仓库子路径部署都能命中
+    documentElement: { lang: lang === "en" ? "en" : "zh-CN", dataset: lang === "en" ? { root: "../" } : {} },
     hidden: false,
     getElementById(id) {
       if (id === "itemTpl") { if (!nodes.has(id)) nodes.set(id, Object.assign(new FakeEl("template"), buildItemTemplate())); return nodes.get(id); }

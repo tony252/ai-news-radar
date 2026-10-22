@@ -21,7 +21,10 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
     if (check) {
       let current = "";
       try { current = readFileSync(out, "utf8"); } catch { /* 缺文件视为未同步 */ }
-      if (current !== next) {
+      // Windows 检出（core.autocrlf=true）会把 LF 转成 CRLF，比对前先统一换行符，
+      // 否则内容完全一致也会被判成"不同步"。
+      const normalize = (text) => text.replace(/\r\n/g, "\n");
+      if (normalize(current) !== normalize(next)) {
         console.error(`assets/i18n/${lang}.js 与 ${lang}.json 不同步，请运行 node scripts/build_i18n.mjs`);
         stale += 1;
       }

@@ -7,7 +7,7 @@
 **先帮你从一堆信源里选出千里马，再把分散消息合并成故事线，最后用三种口味替你锐评每日头条。**
 
 [![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![Live](https://img.shields.io/badge/Live-news.learnprompt.pro-green?style=flat-square)](https://news.learnprompt.pro)
+[![Live](https://img.shields.io/badge/Live-tony252.github.io-green?style=flat-square)](https://tony252.github.io/ai-news-radar/)
 [![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20%E4%BC%AF%E4%B9%90-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
@@ -18,7 +18,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 装完对Agent说一句：`今天AI圈有什么？`
 
-**在线站** → [news.learnprompt.pro](https://news.learnprompt.pro)（数据源/备用：[learnprompt.github.io/ai-news-radar](https://learnprompt.github.io/ai-news-radar/)）
+**在线站** → [tony252.github.io/ai-news-radar](https://tony252.github.io/ai-news-radar/)（上游原站：[news.learnprompt.pro](https://news.learnprompt.pro)）
 
 [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
@@ -34,7 +34,7 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② 直接看网页** → 打开 [news.learnprompt.pro](https://news.learnprompt.pro)。默认是手机版视图，右上角「视角」开关能切到经典版（旧版桌面界面，路径 `/classic/`），也可以直接用 `?view=mobile` / `?view=classic` / `?view=auto` 指定，两个视图读同一份 `data/` 目录数据。v0.9 起是单层信息架构：顶部「全部/模型/产品/开发者/行业/论文/社区/自媒体」栏目 tab + 「精选/全量」全局开关，主列表按时间倒序、按日分组，「当前热点」榜不设固定条数单独看当下最热。每条精选卡片自带一句话「推荐理由」；同一事件被多家信源报道时会折叠成「多源 N」标签，点开看每家独立标题。
+**② 直接看网页** → 打开 [tony252.github.io/ai-news-radar](https://tony252.github.io/ai-news-radar/)。默认是手机版视图，右上角「视角」开关能切到经典版（旧版桌面界面，路径 `/classic/`），也可以直接用 `?view=mobile` / `?view=classic` / `?view=auto` 指定，两个视图读同一份 `data/` 目录数据。v0.9 起是单层信息架构：顶部「全部/模型/产品/开发者/行业/论文/社区/自媒体」栏目 tab + 「精选/全量」全局开关，主列表按时间倒序、按日分组，「当前热点」榜不设固定条数单独看当下最热。每条精选卡片自带一句话「推荐理由」；同一事件被多家信源报道时会折叠成「多源 N」标签，点开看每家独立标题。
 
 **③ fork 拥有自己的筛子** → fork本仓库，信源换成你自己的 OPML，口味改 `personas/` 下的 markdown 文件，数据长在你自己的 GitHub Pages 上。跳到[fork 指南](#fork-指南五步拥有自己的雷达)。
 

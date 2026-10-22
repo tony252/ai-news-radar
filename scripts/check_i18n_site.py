@@ -7,7 +7,7 @@ Checks:
 - assets/i18n/zh.json and en.json have identical key sets and plural shapes
 - the generated assets/i18n/{zh,en}.js are in sync with the JSON
 - en/index.html has no CJK text outside a small allowlist of proper nouns
-- en/index.html uses absolute asset paths that exist, and does not link the classic view
+- en/index.html resolves every local asset under the site root, and does not link the classic view
 
 Exit code is non-zero on any failure.
 """
@@ -23,14 +23,14 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE = "https://news.learnprompt.pro"
+SITE = "https://tony252.github.io/ai-news-radar"
 PAGES = {
     "zh-CN": {"file": "index.html", "url": f"{SITE}/"},
-    "en": {"file": "en/index.html", "url": f"{SITE}/en"},
+    "en": {"file": "en/index.html", "url": f"{SITE}/en/"},
 }
 EXPECTED_HREFLANG = {
     "zh-CN": f"{SITE}/",
-    "en": f"{SITE}/en",
+    "en": f"{SITE}/en/",
     "x-default": f"{SITE}/",
 }
 # CJK 专有名词白名单：英文页里允许出现的中文品牌词（目前英文页一个都不需要，留作扩展点）。
@@ -90,9 +90,20 @@ def canonical(parser: HeadParser) -> str:
 
 def url_to_file(url: str) -> Path | None:
     parsed = urlparse(url)
-    if f"{parsed.scheme}://{parsed.netloc}" != SITE:
+    origin = f"{parsed.scheme}://{parsed.netloc}"
+    site_origin = f"{urlparse(SITE).scheme}://{urlparse(SITE).netloc}"
+    if origin != site_origin:
         return None
+    # 站点部署在仓库子路径下（/ai-news-radar/…），先剥掉这段前缀。
+    prefix = urlparse(SITE).path.strip("/")
     rel = parsed.path.strip("/")
+    if prefix:
+        if rel == prefix:
+            rel = ""
+        elif rel.startswith(f"{prefix}/"):
+            rel = rel[len(prefix) + 1 :]
+        else:
+            return None
     for candidate in ((ROOT / rel / "index.html") if rel else (ROOT / "index.html"), ROOT / rel):
         if candidate.is_file():
             return candidate
@@ -146,10 +157,10 @@ def check_sitemap(errors: list[str]) -> None:
         locs[loc] = alternates
         if url_to_file(loc) is None:
             errors.append(f"sitemap.xml: {loc} does not map to an existing file")
-    for required in (f"{SITE}/", f"{SITE}/classic", f"{SITE}/en"):
+    for required in (f"{SITE}/", f"{SITE}/classic/", f"{SITE}/en/"):
         if required not in locs:
             errors.append(f"sitemap.xml: missing {required}")
-    for page_url in (f"{SITE}/", f"{SITE}/en"):
+    for page_url in (f"{SITE}/", f"{SITE}/en/"):
         if locs.get(page_url) != EXPECTED_HREFLANG:
             errors.append(f"sitemap.xml: alternates for {page_url} are {locs.get(page_url)}, want {EXPECTED_HREFLANG}")
     robots = ROOT / "robots.txt"
@@ -199,23 +210,24 @@ def check_en_page(errors: list[str], parser: HeadParser | None) -> None:
     leftovers = sorted(set(CJK_RE.findall(stripped)))
     if leftovers:
         errors.append(f"en/index.html contains CJK outside the allowlist: {''.join(leftovers)}")
-    if parser.html_attrs.get("data-root") != "/en/":
-        errors.append('en/index.html: <html> must carry data-root="/en/"')
+    if parser.html_attrs.get("data-root") != "../":
+        errors.append('en/index.html: <html> must carry data-root="../"')
     if "data-radar-view-target" in text or "classic" in text.lower():
         errors.append("en/index.html must not render or link the classic view")
-    if not any(link.get("rel") == "alternate" and link.get("type") == "application/rss+xml" and link.get("href") == "/en/feed.xml" for link in parser.links):
-        errors.append("en/index.html: missing RSS alternate /en/feed.xml")
+    if not any(link.get("rel") == "alternate" and link.get("type") == "application/rss+xml" and link.get("href") == "../data/feed-en.xml" for link in parser.links):
+        errors.append("en/index.html: missing RSS alternate ../data/feed-en.xml")
     for tag, ref in parser.refs:
         if ref.startswith(("http://", "https://", "#", "mailto:")):
-            if tag != "a" and ref.startswith("http") and "news.learnprompt.pro" in ref and "/assets/" in ref:
+            if tag != "a" and ref.startswith("http") and SITE in ref and "/assets/" in ref:
                 target = ROOT / urlparse(ref).path.lstrip("/")
                 if not target.is_file():
                     errors.append(f"en/index.html: {ref} does not exist")
             continue
-        if not ref.startswith("/"):
-            errors.append(f"en/index.html: relative {tag} reference {ref!r} (must be absolute)")
+        if ref.startswith("/"):
+            errors.append(f"en/index.html: root-absolute {tag} reference {ref!r} (breaks subpath hosting)")
             continue
-        target = ROOT / urlparse(ref).path.lstrip("/")
+        # 页面在 /en/ 下，相对路径以页面所在目录为基准解析。
+        target = (path.parent / urlparse(ref).path).resolve()
         if tag in {"script", "link", "img"} and not target.is_file():
             errors.append(f"en/index.html: {ref} does not exist")
 
