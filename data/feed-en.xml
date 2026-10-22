@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 20:33:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:04:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>

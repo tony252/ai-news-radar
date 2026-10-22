@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 22 Oct 2026 20:33:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:04:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
@@ -40,7 +40,7 @@
 <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
 </item>
 <item>
-<title>Meta API endpoints updated for Actions blob storage</title>
+<title>更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage</title>
 <link>https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage</guid>
 <description>GitHub Changelog</description>
@@ -88,7 +88,7 @@
 <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
 </item>
 <item>
-<title>Public monitoring now available with data residency</title>
+<title>现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency</title>
 <link>https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency</guid>
 <description>GitHub Changelog</description>
