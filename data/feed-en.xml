@@ -5,8 +5,40 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 15:45:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 18:04:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+<link>https://huggingface.co/blog/allenai/litpivot</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/litpivot</guid>
+<description>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+</item>
+<item>
+<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+<description>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Enterprise installations for GitHub Apps generally available</title>
+<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<description>Enterprise installations for GitHub Apps generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
+</item>
+<item>
+<title>Kimi K3.1 Pro</title>
+<link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
+<guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
+<description>Kimi K3.1 Pro</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Does Your Model Run on AWS Trainium? Look It Up</title>
 <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
@@ -30,30 +62,6 @@
 <description>OpenAI and Poland’s NASK partner to advance AI safety and security (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-</item>
-<item>
-<title>Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-<description>Custom skills, agents, and MCP servers in usage metrics API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
-</item>
-<item>
-<title>Build more responsive apps with the Decisions API</title>
-<link>https://openai.com/index/decisions-api</link>
-<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-<description>Build more responsive apps with the Decisions API (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI lowers valuation target, raises up to $30 billion</title>
@@ -80,20 +88,20 @@
 <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
+<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
+<description>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+</item>
+<item>
 <title>WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
 <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
 <description>WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
-</item>
-<item>
-<title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
-<link>https://www.aibase.com/news/31847</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31847</guid>
-<description>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
 <title>Investigating alignment failures in AISI’s incident</title>
@@ -104,28 +112,20 @@
 <pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Global default for Copilot features generally available</title>
-<link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
-<description>Global default for Copilot features generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
-</item>
-<item>
-<title>An alignment assessment of the UK AISI cybertesting incident</title>
-<link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/alignment-assessment-ukaisi</guid>
-<description>An alignment assessment of the UK AISI cybertesting incident</description>
+<title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
+<link>https://www.aibase.com/news/31847</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31847</guid>
+<description>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
-<title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
-<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
-<description>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet (Hugging Face Blog)</description>
+<title>Custom skills, agents, and MCP servers in usage metrics API</title>
+<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
+<description>Custom skills, agents, and MCP servers in usage metrics API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
 </item>
 <item>
 <title>Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</title>
@@ -136,6 +136,14 @@
 <pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
 </item>
 <item>
+<title>Build more responsive apps with the Decisions API</title>
+<link>https://openai.com/index/decisions-api</link>
+<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+<description>Build more responsive apps with the Decisions API (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</guid>
@@ -144,28 +152,20 @@
 <pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Building Medical Superintelligence</title>
-<link>https://microsoft.ai/news/building-medical-superintelligence</link>
-<guid isPermaLink="true">https://microsoft.ai/news/building-medical-superintelligence</guid>
-<description>Building Medical Superintelligence</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 18:01:00 +0000</pubDate>
-</item>
-<item>
-<title>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</title>
-<link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
-<guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
-<description>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
-</item>
-<item>
 <title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
 <description>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
+</item>
+<item>
+<title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
+<link>https://www.aibase.com/news/31846</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31846</guid>
+<description>月之暗面放 K3.1 预热视频，发布日期仍捂着 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
