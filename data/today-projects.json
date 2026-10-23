@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:06:51.346496Z",
+  "generated_at": "2026-10-23T09:04:53.805758Z",
   "date": "2026-10-23",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T06:05:54.444555Z"
+      "observed_at": "2026-10-23T09:04:17.650920Z"
     },
     {
-      "id": "project_be8465a650de",
-      "project_name": "Notif",
-      "url": "https://www.producthunt.com/products/notif-2",
-      "summary": "AI for your Apple Reminders",
+      "id": "project_0b3fef12db0e",
+      "project_name": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "summary": "Watch AI agents code in 3D and hand off the work",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI for your Apple Reminders」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI for your Apple Reminders\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T00:54:33Z",
-      "updated_at": "2026-10-23T06:03:52Z",
+      "recommend_reason_zh": "体验它主打的「Watch AI agents code in 3D and hand off the work」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Watch AI agents code in 3D and hand off the work\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-23T04:32:57Z",
+      "updated_at": "2026-10-23T09:04:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T06:06:39.636503Z"
+      "observed_at": "2026-10-23T09:04:44.533271Z"
     },
     {
       "id": "project_dbd5adafc407",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T06:05:54.444555Z"
+      "observed_at": "2026-10-23T09:04:17.650920Z"
     },
     {
-      "id": "project_bf24d3dbf951",
-      "project_name": "Concierge by Juniors AI",
-      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-      "summary": "Omni-channel AI-first customer support (6 months free)",
+      "id": "project_6fdc6a6efcdc",
+      "project_name": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
+      "summary": "Pause Claude Code and Codex before they burn your week",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Omni-channel AI-first customer support (6 months free)」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Omni-channel AI-first customer support (6 months free)\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-11T10:21:34Z",
-      "updated_at": "2026-10-23T05:25:14Z",
+      "recommend_reason_zh": "体验它主打的「Pause Claude Code and Codex before they burn your week」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Pause Claude Code and Codex before they burn your week\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-22T21:38:15Z",
+      "updated_at": "2026-10-23T09:04:04Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T06:06:39.636503Z"
+      "observed_at": "2026-10-23T09:04:44.533271Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1199,
+      "duration_ms": 1260,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 131,
+      "duration_ms": 126,
       "error": null
     }
   ]
