@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 11:48:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 12:04:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
