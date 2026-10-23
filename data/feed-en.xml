@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 23:59:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 01:31:53 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -16,12 +16,12 @@
 <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
 </item>
 <item>
-<title>Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-<description>Custom skills, agents, and MCP servers in usage metrics API (GitHub Changelog)</description>
+<title>GitHub Copilot in Visual Studio — September update</title>
+<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
+<description>GitHub Copilot in Visual Studio — September update (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
 </item>
 <item>
 <title>Build more responsive apps with the Decisions API</title>
@@ -40,12 +40,12 @@
 <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
 </item>
 <item>
-<title>Global default for Copilot features generally available</title>
-<link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
-<description>Global default for Copilot features generally available (GitHub Changelog)</description>
+<title>Custom skills, agents, and MCP servers in usage metrics API</title>
+<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
+<description>Custom skills, agents, and MCP servers in usage metrics API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
 </item>
 <item>
 <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
@@ -54,6 +54,14 @@
 <description>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+</item>
+<item>
+<title>Global default for Copilot features generally available</title>
+<link>https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available</guid>
+<description>Global default for Copilot features generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 22 Oct 2026 20:44:28 +0000</pubDate>
 </item>
 <item>
 <title>What FDE means at OpenAI</title>
@@ -96,20 +104,20 @@
 <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
 </item>
 <item>
-<title>Industry comparisons in the Copilot impact dashboard</title>
-<link>https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard</guid>
-<description>Industry comparisons in the Copilot impact dashboard (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 16:28:24 +0000</pubDate>
+<title>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿</title>
+<link>https://www.aibase.com/news/31816</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31816</guid>
+<description>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 01:31:53 +0000</pubDate>
 </item>
 <item>
-<title>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</guid>
-<description>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</description>
+<title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
+<description>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</description>
 <category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
 </item>
 <item>
 <title>Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
@@ -158,14 +166,6 @@
 <description>Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
-</item>
-<item>
-<title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
-<link>https://x.com/Khazix0918/status/2113096414469464281</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2113096414469464281</guid>
-<description>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 02:33:39 +0000</pubDate>
 </item>
 </channel>
 </rss>

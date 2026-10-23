@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T23:59:29.984211Z",
+  "generated_at": "2026-10-23T01:31:53.320502Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_cabd6fe41d82",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": null,
+          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
           "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "summary": null,
@@ -35,8 +35,8 @@
       "items": [
         {
           "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": null,
+          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
           "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "summary": null,
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9774,
+        "recency": 0.9559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,8 +73,8 @@
       "latest_at": "2026-10-22T22:24:34Z",
       "primary_item": {
         "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "title_zh": null,
+        "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
         "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
         "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
         "summary": null,
@@ -87,30 +87,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
-      "story_id": "story_99e301a8a71e",
-      "title": "Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "story_id": "story_fde7fea26706",
+      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_zh": null,
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
+          "published_at": "2026-10-23T00:17:51Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -121,33 +121,33 @@
       ],
       "items": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_zh": null,
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
+          "published_at": "2026-10-23T00:17:51Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9762,
+        "recency": 0.9823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -156,17 +156,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:19:17Z",
-      "latest_at": "2026-10-22T22:19:17Z",
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
       "primary_item": {
-        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-        "title": "Custom skills, agents, and MCP servers in usage metrics API",
-        "title_zh": null,
-        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+        "title_en": "GitHub Copilot in Visual Studio — September update",
+        "title_original": "GitHub Copilot in Visual Studio — September update",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9305,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.872,
+        "recency": 0.8528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,30 +348,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
-      "story_id": "story_ea79a79632a0",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "story_id": "story_99e301a8a71e",
+      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
+          "published_at": "2026-10-22T22:19:17Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -382,33 +382,33 @@
       ],
       "items": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
+          "published_at": "2026-10-22T22:19:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9541,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,17 +417,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
+      "earliest_at": "2026-10-22T22:19:17Z",
+      "latest_at": "2026-10-22T22:19:17Z",
       "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Global default for Copilot features generally available",
-        "title_zh": null,
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
+        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+        "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
+        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
+        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8935,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
+      }
+    },
+    {
+      "story_id": "story_ea79a79632a0",
+      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "title_zh": "Copilot 功能的全局默认设置已全面可用",
+          "title_en": "Global default for Copilot features generally available",
+          "title_original": "Global default for Copilot features generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9332,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
+      "primary_item": {
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+        "title_zh": "Copilot 功能的全局默认设置已全面可用",
+        "title_en": "Global default for Copilot features generally available",
+        "title_original": "Global default for Copilot features generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7712,
+        "recency": 0.7542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -661,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -747,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -781,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -833,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -919,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,154 +1040,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
-      "story_id": "story_2bb3b3856ddd",
-      "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_adde96b2c7b9",
+      "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+      "url": "https://www.aibase.com/news/31816",
+      "primary_url": "https://www.aibase.com/news/31816",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_en": null,
+          "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z",
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T01:31:53.320502Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "title_en": null,
+          "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z",
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T01:31:53.320502Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8971,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
-      "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-        "title_zh": "Copilot 影响仪表板中的行业比较",
-        "title_en": "Industry comparisons in the Copilot impact dashboard",
-        "title_original": "Industry comparisons in the Copilot impact dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
-      }
-    },
-    {
-      "story_id": "story_583019dc6666",
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7082,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,25 +1108,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T00:06:00Z",
-      "latest_at": "2026-10-22T00:06:00Z",
+      "earliest_at": "2026-10-23T01:31:53.320502Z",
+      "latest_at": "2026-10-23T01:31:53.320502Z",
       "primary_item": {
-        "id": "57b779c46686bc1954136c094928ec6605314308",
-        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+        "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+        "title_zh": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
         "title_en": null,
-        "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+        "title_original": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-        "source": "公众号：数字生命卡兹克",
+        "url": "https://www.aibase.com/news/31816",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T01:33:00.886663Z"
+      }
+    },
+    {
+      "story_id": "story_9a1340c7e8eb",
+      "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_en": null,
+          "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T00:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：MiniMax（稀宇科技）"
+      ],
+      "items": [
+        {
+          "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "title_en": null,
+          "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+          "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T00:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9914,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:56:00Z",
+      "latest_at": "2026-10-23T00:56:00Z",
+      "primary_item": {
+        "id": "66ffafe4a42cf6d9e865c7d8bd42a4941d3054c7",
+        "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "title_zh": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "title_en": null,
+        "title_original": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
+        "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
+        "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1178,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8851,
+        "recency": 0.8656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1264,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7922,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1299,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1351,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1385,7 +1471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1437,15 +1523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7773,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1471,7 +1557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1523,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7626,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1557,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     },
     {
@@ -1609,15 +1695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.945,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1643,93 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
-      }
-    },
-    {
-      "story_id": "story_bb01db78f5d1",
-      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-      "url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "primary_url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T02:33:39Z",
-      "latest_at": "2026-10-22T02:33:39Z",
-      "primary_item": {
-        "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-        "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "title_en": null,
-        "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2113096414469464281",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:11:46.834522Z"
+        "scored_at": "2026-10-23T01:33:00.886663Z"
       }
     }
   ]
