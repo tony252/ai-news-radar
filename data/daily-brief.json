@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:04:21.418149Z",
+  "generated_at": "2026-10-23T06:05:54.444555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9349,
+        "recency": 0.8949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9607,
+        "recency": 0.9196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,30 +174,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
-      "story_id": "story_59aa6c306989",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "primary_url": "https://openai.com/index/decisions-api",
+      "story_id": "story_ce7f81360e67",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": null,
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z",
+          "published_at": "2026-10-23T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -208,33 +208,33 @@
       ],
       "items": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_zh": null,
+          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z",
+          "published_at": "2026-10-23T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.89,
+        "recency": 0.9157,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,17 +243,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T19:00:00Z",
-      "latest_at": "2026-10-22T19:00:00Z",
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T00:00:00Z",
       "primary_item": {
-        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-        "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-        "title_en": "Build more responsive apps with the Decisions API",
-        "title_original": "Build more responsive apps with the Decisions API",
+        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_zh": null,
+        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/decisions-api",
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8341,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9337,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8546,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
+      }
+    },
+    {
+      "story_id": "story_59aa6c306989",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "primary_url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "title_en": "Build more responsive apps with the Decisions API",
+          "title_original": "Build more responsive apps with the Decisions API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "title_en": "Build more responsive apps with the Decisions API",
+          "title_original": "Build more responsive apps with the Decisions API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8519,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T19:00:00Z",
+      "latest_at": "2026-10-22T19:00:00Z",
+      "primary_item": {
+        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+        "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+        "title_en": "Build more responsive apps with the Decisions API",
+        "title_original": "Build more responsive apps with the Decisions API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9126,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,94 +696,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
-      "story_id": "story_c737801d4d18",
-      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6e0088f38de6",
+      "title": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+      "url": "https://www.aibase.com/news/31833",
+      "primary_url": "https://www.aibase.com/news/31833",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
+          "id": "fbcee308e9db1098c764a3559c39f77c28234766",
+          "title": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+          "title_zh": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+          "title_en": null,
+          "title_original": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z",
+          "url": "https://www.aibase.com/news/31833",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T06:05:54.444555Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
+          "id": "fbcee308e9db1098c764a3559c39f77c28234766",
+          "title": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+          "title_zh": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+          "title_en": null,
+          "title_original": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z",
+          "url": "https://www.aibase.com/news/31833",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T06:05:54.444555Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7376,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T06:00:00Z",
-      "latest_at": "2026-10-22T06:00:00Z",
+      "earliest_at": "2026-10-23T06:05:54.444555Z",
+      "latest_at": "2026-10-23T06:05:54.444555Z",
       "primary_item": {
-        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-        "title_zh": "FDE 在 OpenAI 中意味着什么",
-        "title_en": "What FDE means at OpenAI",
-        "title_original": "What FDE means at OpenAI",
+        "id": "fbcee308e9db1098c764a3559c39f77c28234766",
+        "title": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+        "title_zh": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
+        "title_en": null,
+        "title_original": "AI 三巨头拟捐近 3000 亿美元，被称\"现代史上最大慈善\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31833",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -748,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8997,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -782,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -834,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -868,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -920,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.851,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -954,93 +1040,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
-      }
-    },
-    {
-      "story_id": "story_711fe09cc4b5",
-      "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-      "url": "https://www.aibase.com/news/31823",
-      "primary_url": "https://www.aibase.com/news/31823",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
-          "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "title_zh": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "title_en": null,
-          "title_original": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31823",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T03:04:21.418149Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
-          "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "title_zh": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "title_en": null,
-          "title_original": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31823",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T03:04:21.418149Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T03:04:21.418149Z",
-      "latest_at": "2026-10-23T03:04:21.418149Z",
-      "primary_item": {
-        "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
-        "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-        "title_zh": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-        "title_en": null,
-        "title_original": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31823",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1092,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1178,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1264,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1350,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7577,
+        "recency": 0.7253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1385,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1437,21 +1437,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-22T06:32:56Z",
       "latest_at": "2026-10-22T06:32:56Z",
@@ -1471,7 +1470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1523,21 +1522,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8451,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-22T15:25:02Z",
       "latest_at": "2026-10-22T15:25:02Z",
@@ -1557,7 +1555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
@@ -1609,21 +1607,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T01:06:29Z",
       "latest_at": "2026-10-23T01:06:29Z",
@@ -1643,93 +1640,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     },
     {
-      "story_id": "story_d6c8641710cd",
-      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_141a9a8b3646",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z",
+          "published_at": "2026-10-22T20:04:24Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z",
+          "published_at": "2026-10-22T20:04:24Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7294,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T05:13:16Z",
-      "latest_at": "2026-10-22T05:13:16Z",
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
       "primary_item": {
-        "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-        "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-        "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T03:09:33.483861Z"
+        "scored_at": "2026-10-23T06:15:31.187878Z"
       }
     }
   ]
