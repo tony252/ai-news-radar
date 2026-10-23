@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T15:04:20.319702Z",
+  "generated_at": "2026-10-23T15:45:20.713599Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_4cbd065cbc83",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": null,
+          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
+          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
           "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
           "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
           "summary": null,
@@ -35,8 +35,8 @@
       "items": [
         {
           "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": null,
+          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
+          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
           "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
           "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
           "summary": null,
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8044,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,8 +73,8 @@
       "latest_at": "2026-10-23T00:00:00Z",
       "primary_item": {
         "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-        "title": "Does Your Model Run on AWS Trainium? Look It Up",
-        "title_zh": null,
+        "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
+        "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
         "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
         "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
         "summary": null,
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8079,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8044,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7861,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7851,
+        "recency": 0.7774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7484,
+        "recency": 0.741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9271,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9199,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +694,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
+      }
+    },
+    {
+      "story_id": "story_797f8648bce2",
+      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "primary_url": "https://x.com/fal/status/2113646807997620396",
+      "source": "X：fal (@fal)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2113646807997620396",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T15:00:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：fal (@fal)"
+      ],
+      "items": [
+        {
+          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2113646807997620396",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T15:00:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:00:43Z",
+      "latest_at": "2026-10-23T15:00:43Z",
+      "primary_item": {
+        "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
+        "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+        "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+        "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+        "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+        "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/fal/status/2113646807997620396",
+        "source": "X：fal (@fal)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -746,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -832,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -918,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1004,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7674,
+        "recency": 0.7599,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1039,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1091,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7166,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1176,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7186,
+        "recency": 0.7116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1211,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1296,15 +1382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7526,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1330,7 +1416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1382,15 +1468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7565,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1415,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1467,15 +1553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7378,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1500,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1552,15 +1638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7156,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1585,92 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
-      }
-    },
-    {
-      "story_id": "story_bae5ad58fa35",
-      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "primary_url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T15:32:17Z",
-      "latest_at": "2026-10-22T15:32:17Z",
-      "primary_item": {
-        "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-        "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-        "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     },
     {
@@ -1722,15 +1723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8153,
+        "recency": 0.8073,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1755,7 +1756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T15:19:00.965456Z"
+        "scored_at": "2026-10-23T15:46:15.351097Z"
       }
     }
   ]

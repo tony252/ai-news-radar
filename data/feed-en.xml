@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 15:04:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 15:45:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Does Your Model Run on AWS Trainium? Look It Up</title>
@@ -70,6 +70,14 @@
 <description>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
+</item>
+<item>
+<title>Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
+<link>https://x.com/fal/status/2113646807997620396</link>
+<guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
+<description>Kling 4.0 is now publicly available on fal, with API access open to all customers.</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
 <title>WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
@@ -150,14 +158,6 @@
 <description>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
-</item>
-<item>
-<title>Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
-<link>https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</link>
-<guid isPermaLink="true">https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</guid>
-<description>Red-Teaming OpenAI's Internal Agent Monitoring Systems</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
 </item>
 <item>
 <title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
