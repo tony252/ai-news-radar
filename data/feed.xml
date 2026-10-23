@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 20:26:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:04:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -96,20 +96,20 @@
 <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
 </item>
 <item>
-<title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
-<link>https://x.com/fal/status/2113646807997620396</link>
-<guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
-<description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
-</item>
-<item>
 <title>将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
 <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
 <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+</item>
+<item>
+<title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
+<link>https://x.com/fal/status/2113646807997620396</link>
+<guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
+<description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。（X：fal (@fal)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -152,20 +152,20 @@
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
-<description>MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。（公众号：MiniMax（稀宇科技））</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
-</item>
-<item>
 <title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
 <link>https://www.aibase.com/news/31846</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31846</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
+</item>
+<item>
+<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
+<link>https://www.aibase.com/news/31834</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
