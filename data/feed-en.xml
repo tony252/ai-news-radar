@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 01:31:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 03:04:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -96,20 +96,20 @@
 <pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
 </item>
 <item>
+<title>Arc浏览器将于12月22日停止服务，The Browser Company转向Dia</title>
+<link>https://www.aibase.com/news/31823</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31823</guid>
+<description>Arc浏览器将于12月22日停止服务，The Browser Company转向Dia (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 03:04:21 +0000</pubDate>
+</item>
+<item>
 <title>AI Is Changing Everything About Hacking. No One Knows What Happens Next</title>
 <link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</link>
 <guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</guid>
 <description>AI Is Changing Everything About Hacking. No One Knows What Happens Next</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿</title>
-<link>https://www.aibase.com/news/31816</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31816</guid>
-<description>MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 01:31:53 +0000</pubDate>
 </item>
 <item>
 <title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
@@ -136,14 +136,6 @@
 <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
 </item>
 <item>
-<title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
-<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</guid>
-<description>Hackers got a four-day head start on epic PHP2Shell vulnerability</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
-</item>
-<item>
 <title>Hold on to your hat. #KlingAI #Kling4</title>
 <link>https://x.com/Kling_ai/status/2113156632134005040</link>
 <guid isPermaLink="true">https://x.com/Kling_ai/status/2113156632134005040</guid>
@@ -152,20 +144,28 @@
 <pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
 </item>
 <item>
+<title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
+<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
+<guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</guid>
+<description>Hackers got a four-day head start on epic PHP2Shell vulnerability</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
+</item>
+<item>
+<title>MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.</title>
+<link>https://x.com/MiniMax_AI/status/2113436864904610008</link>
+<guid isPermaLink="true">https://x.com/MiniMax_AI/status/2113436864904610008</guid>
+<description>MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 01:06:29 +0000</pubDate>
+</item>
+<item>
 <title>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</title>
 <link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
 <description>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
-</item>
-<item>
-<title>Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</title>
-<link>https://x.com/claudeai/status/2113360845409583307</link>
-<guid isPermaLink="true">https://x.com/claudeai/status/2113360845409583307</guid>
-<description>Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
