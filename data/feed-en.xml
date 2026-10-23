@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 09:04:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 10:04:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -64,6 +64,14 @@
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</title>
+<link>https://www.ithome.com/1/017/113.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
+<description>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
+</item>
+<item>
 <title>WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
 <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
@@ -72,12 +80,12 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
-<link>https://www.aibase.com/news/31834</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
-<description>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端 (AIbase)</description>
+<title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
+<link>https://www.aibase.com/news/31847</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31847</guid>
+<description>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
 <title>Global default for Copilot features generally available</title>
@@ -112,20 +120,20 @@
 <pubDate>Thu, 22 Oct 2026 18:01:00 +0000</pubDate>
 </item>
 <item>
-<title>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</title>
-<link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
-<guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
-<description>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
-</item>
-<item>
 <title>AI Is Changing Everything About Hacking. No One Knows What Happens Next</title>
 <link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</link>
 <guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next</guid>
 <description>AI Is Changing Everything About Hacking. No One Knows What Happens Next</description>
 <category>Industry news</category>
 <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
+</item>
+<item>
+<title>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</title>
+<link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
+<guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
+<description>The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
 </item>
 <item>
 <title>Red-Teaming OpenAI's Internal Agent Monitoring Systems</title>
@@ -152,20 +160,12 @@
 <pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.</title>
-<link>https://x.com/MiniMax_AI/status/2113436864904610008</link>
-<guid isPermaLink="true">https://x.com/MiniMax_AI/status/2113436864904610008</guid>
-<description>MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.</description>
+<title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
+<link>https://www.aibase.com/news/31846</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31846</guid>
+<description>月之暗面放 K3.1 预热视频，发布日期仍捂着 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 01:06:29 +0000</pubDate>
-</item>
-<item>
-<title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
-<link>https://www.aibase.com/news/31837</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31837</guid>
-<description>Etsy宣布禁止平台销售AI生成食谱与手工图样 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 </channel>
 </rss>

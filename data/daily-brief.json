@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:04:17.650920Z",
+  "generated_at": "2026-10-23T10:04:16.682723Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8573,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.881,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8772,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7648,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8562,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7837,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8161,
+        "recency": 0.8044,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +609,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
+      }
+    },
+    {
+      "story_id": "story_787af4a9c384",
+      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+      "url": "https://www.ithome.com/1/017/113.htm",
+      "primary_url": "https://www.ithome.com/1/017/113.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "title_en": null,
+          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "title_en": null,
+          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T09:17:16.350000Z",
+      "latest_at": "2026-10-23T09:17:16.350000Z",
+      "primary_item": {
+        "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+        "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+        "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+        "title_en": null,
+        "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+        "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/017/113.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -661,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,30 +781,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
-      "story_id": "story_c275180a11be",
-      "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
-      "url": "https://www.aibase.com/news/31834",
-      "primary_url": "https://www.aibase.com/news/31834",
+      "story_id": "story_c9271f0c343a",
+      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+      "url": "https://www.aibase.com/news/31847",
+      "primary_url": "https://www.aibase.com/news/31847",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
-          "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
-          "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
           "title_en": null,
-          "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31834",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T09:04:17.650920Z",
+          "published_at": "2026-10-23T10:04:16.682723Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +815,18 @@
       ],
       "items": [
         {
-          "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
-          "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
-          "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
           "title_en": null,
-          "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31834",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T09:04:17.650920Z",
+          "published_at": "2026-10-23T10:04:16.682723Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +849,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T09:04:17.650920Z",
-      "latest_at": "2026-10-23T09:04:17.650920Z",
+      "earliest_at": "2026-10-23T10:04:16.682723Z",
+      "latest_at": "2026-10-23T10:04:16.682723Z",
       "primary_item": {
-        "id": "7e327636d52cccd7ae89a907fc592cfd77874820",
-        "title": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
-        "title_zh": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
         "title_en": null,
-        "title_original": "Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端",
+        "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31834",
+        "url": "https://www.aibase.com/news/31847",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,7 +867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -833,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8369,
+        "recency": 0.8249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -868,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -953,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -988,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1040,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.825,
+        "recency": 0.8132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1126,15 +1212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,93 +1246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
-      }
-    },
-    {
-      "story_id": "story_da447daf9891",
-      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "source": "Newcomer 新闻长文（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-          "recommend_reason_zh": null,
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Newcomer 新闻长文（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-          "recommend_reason_zh": null,
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7804,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:53:55Z",
-      "latest_at": "2026-10-22T15:53:55Z",
-      "primary_item": {
-        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-        "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-        "recommend_reason_zh": null,
-        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-        "source": "Newcomer 新闻长文（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1298,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,7 +1332,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
+      }
+    },
+    {
+      "story_id": "story_da447daf9891",
+      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "source": "Newcomer 新闻长文（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
+          "recommend_reason_zh": null,
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Newcomer 新闻长文（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
+          "recommend_reason_zh": null,
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7692,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T15:53:55Z",
+      "latest_at": "2026-10-22T15:53:55Z",
+      "primary_item": {
+        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+        "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+        "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+        "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+        "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
+        "recommend_reason_zh": null,
+        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+        "source": "Newcomer 新闻长文（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1384,15 +1470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1469,15 +1555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.8764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1502,7 +1588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
@@ -1554,15 +1640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.775,
+        "recency": 0.7639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,115 +1673,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     },
     {
-      "story_id": "story_f69abee1ba70",
-      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B / MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-      "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-      "primary_url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
-          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B / MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "title_zh": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-          "title_en": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "title_original": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-          "source": "X：MiniMax (@MiniMax_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T01:06:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：MiniMax (@MiniMax_AI)"
-      ],
-      "items": [
-        {
-          "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
-          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B / MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "title_zh": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-          "title_en": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "title_original": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-          "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-          "source": "X：MiniMax (@MiniMax_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T01:06:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T01:06:29Z",
-      "latest_at": "2026-10-23T01:06:29Z",
-      "primary_item": {
-        "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
-        "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B / MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-        "title_zh": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-        "title_en": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-        "title_original": "MiniMax M3.1 Flash weights are now public. 428B parameters total, 23B activated per token.",
-        "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
-        "source": "X：MiniMax (@MiniMax_AI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
-      }
-    },
-    {
-      "story_id": "story_6631f8bdfa9a",
-      "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-      "url": "https://www.aibase.com/news/31837",
-      "primary_url": "https://www.aibase.com/news/31837",
+      "story_id": "story_4a790cae95d0",
+      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+      "url": "https://www.aibase.com/news/31846",
+      "primary_url": "https://www.aibase.com/news/31846",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-          "title_zh": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
           "title_en": null,
-          "title_original": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31837",
+          "url": "https://www.aibase.com/news/31846",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T09:04:17.650920Z",
+          "published_at": "2026-10-23T10:04:16.682723Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1706,18 +1707,18 @@
       ],
       "items": [
         {
-          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-          "title_zh": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
           "title_en": null,
-          "title_original": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31837",
+          "url": "https://www.aibase.com/news/31846",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T09:04:17.650920Z",
+          "published_at": "2026-10-23T10:04:16.682723Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1740,17 +1741,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T09:04:17.650920Z",
-      "latest_at": "2026-10-23T09:04:17.650920Z",
+      "earliest_at": "2026-10-23T10:04:16.682723Z",
+      "latest_at": "2026-10-23T10:04:16.682723Z",
       "primary_item": {
-        "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-        "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-        "title_zh": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+        "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
         "title_en": null,
-        "title_original": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+        "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31837",
+        "url": "https://www.aibase.com/news/31846",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1758,7 +1759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T09:05:25.029527Z"
+        "scored_at": "2026-10-23T10:15:52.185239Z"
       }
     }
   ]
