@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 21:04:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:51:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -16,6 +16,14 @@
 <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
 </item>
 <item>
+<title>Turn notifications into code with GitHub Copilot in Teams</title>
+<link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</guid>
+<description>Turn notifications into code with GitHub Copilot in Teams (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
+</item>
+<item>
 <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
@@ -24,12 +32,28 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise installations for GitHub Apps generally available</title>
-<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
-<description>Enterprise installations for GitHub Apps generally available (GitHub Changelog)</description>
+<title>Codex CLI 0.164.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>Codex CLI 0.164.0 (OpenAI Codex Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
+<link>https://x.com/OpenAI/status/2113766354386084338</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+<description>During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
+</item>
+<item>
+<title>EMU deletions fix</title>
+<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
+<description>EMU deletions fix (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
 </item>
 <item>
 <title>Securing our frontier model training environment</title>
@@ -64,20 +88,20 @@
 <pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot in Visual Studio — September update</title>
-<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
-<description>GitHub Copilot in Visual Studio — September update (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
-</item>
-<item>
 <title>Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:</title>
 <link>https://x.com/alexeheath/status/2113706585348600220</link>
 <guid isPermaLink="true">https://x.com/alexeheath/status/2113706585348600220</guid>
 <description>Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
+</item>
+<item>
+<title>Enterprise installations for GitHub Apps generally available</title>
+<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<description>Enterprise installations for GitHub Apps generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI lowers valuation target, raises up to $30 billion</title>
@@ -94,14 +118,6 @@
 <description>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
-</item>
-<item>
-<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
 </item>
 <item>
 <title>Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
@@ -128,22 +144,6 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>Investigating alignment failures in AISI’s incident</title>
-<link>https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</link>
-<guid isPermaLink="true">https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</guid>
-<description>Investigating alignment failures in AISI’s incident</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-<description>Custom skills, agents, and MCP servers in usage metrics API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
-</item>
-<item>
 <title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
 <link>https://www.aibase.com/news/31847</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31847</guid>
@@ -152,20 +152,20 @@
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot in Visual Studio — September update</title>
+<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
+<description>GitHub Copilot in Visual Studio — September update (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
+</item>
+<item>
 <title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
 <link>https://www.aibase.com/news/31846</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31846</guid>
 <description>月之暗面放 K3.1 预热视频，发布日期仍捂着 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
-</item>
-<item>
-<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
-<link>https://www.aibase.com/news/31834</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
-<description>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
