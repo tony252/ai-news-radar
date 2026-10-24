@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:52:21.912835Z",
+  "generated_at": "2026-10-24T00:04:55.283415Z",
   "date": "2026-10-24",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T23:51:41.595788Z"
+      "observed_at": "2026-10-24T00:04:15.974361Z"
     },
     {
-      "id": "project_7d06cb119daa",
-      "project_name": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
-      "summary": "A pet for every Claude Code session",
+      "id": "project_43a2cb5564a6",
+      "project_name": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "summary": "The world's first long-form video agent for mobile",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A pet for every Claude Code session」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A pet for every Claude Code session\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-22T09:49:27Z",
-      "updated_at": "2026-10-23T23:02:50Z",
+      "recommend_reason_zh": "体验它主打的「The world's first long-form video agent for mobile」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The world's first long-form video agent for mobile\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-09-19T05:45:58Z",
+      "updated_at": "2026-10-23T23:56:50Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T23:52:13.631120Z"
+      "observed_at": "2026-10-24T00:04:45.737351Z"
     },
     {
       "id": "project_618e8fb74c6c",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-23T23:51:41.595788Z"
+      "observed_at": "2026-10-24T00:04:15.974361Z"
     },
     {
-      "id": "project_b51ab77fbd25",
-      "project_name": "FLUX 3 Max",
-      "url": "https://www.producthunt.com/products/fal-ai",
-      "summary": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds",
+      "id": "project_0b3fef12db0e",
+      "project_name": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "summary": "Watch AI agents code in 3D and hand off the work",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「fal’s FLUX 3 Max: 10-second AI video in about 12 seconds」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"fal’s FLUX 3 Max: 10-second AI video in about 12 seconds\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T20:10:40Z",
-      "updated_at": "2026-10-23T23:34:14Z",
+      "recommend_reason_zh": "体验它主打的「Watch AI agents code in 3D and hand off the work」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Watch AI agents code in 3D and hand off the work\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-23T04:32:57Z",
+      "updated_at": "2026-10-23T23:02:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-23T23:52:13.631120Z"
+      "observed_at": "2026-10-24T00:04:45.737351Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 330,
+      "duration_ms": 1059,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 152,
+      "duration_ms": 148,
       "error": null
     }
   ]

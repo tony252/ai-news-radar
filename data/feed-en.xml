@@ -5,7 +5,7 @@
 <link>https://tony252.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 23:51:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:04:15 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://tony252.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -32,12 +32,12 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.164.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>Codex CLI 0.164.0 (OpenAI Codex Changelog)</description>
+<title>Usage metrics API adds usage from tools like OpenCode</title>
+<link>https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</guid>
+<description>Usage metrics API adds usage from tools like OpenCode (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 23:42:03 +0000</pubDate>
 </item>
 <item>
 <title>During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
@@ -48,14 +48,6 @@
 <pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
 </item>
 <item>
-<title>EMU deletions fix</title>
-<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
-<description>EMU deletions fix (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
-</item>
-<item>
 <title>Securing our frontier model training environment</title>
 <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
 <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
@@ -64,20 +56,20 @@
 <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Does Your Model Run on AWS Trainium? Look It Up</title>
-<link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-<guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
-<description>Does Your Model Run on AWS Trainium? Look It Up (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Kimi K3.1 Pro</title>
 <link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
 <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
 <description>Kimi K3.1 Pro</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>EMU deletions fix</title>
+<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
+<description>EMU deletions fix (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
 </item>
 <item>
 <title>Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.</title>
@@ -94,14 +86,6 @@
 <description>Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
-</item>
-<item>
-<title>Enterprise installations for GitHub Apps generally available</title>
-<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
-<description>Enterprise installations for GitHub Apps generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI lowers valuation target, raises up to $30 billion</title>
@@ -128,14 +112,6 @@
 <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-<link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-<description>OpenAI and Poland’s NASK partner to advance AI safety and security (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
 <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
@@ -152,12 +128,12 @@
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot in Visual Studio — September update</title>
-<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
-<description>GitHub Copilot in Visual Studio — September update (GitHub Changelog)</description>
+<title>Enterprise installations for GitHub Apps generally available</title>
+<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<description>Enterprise installations for GitHub Apps generally available (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
@@ -166,6 +142,30 @@
 <description>月之暗面放 K3.1 预热视频，发布日期仍捂着 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 23 Oct 2026 10:04:16 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot in Visual Studio — September update</title>
+<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
+<description>GitHub Copilot in Visual Studio — September update (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
+</item>
+<item>
+<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
+<link>https://www.aibase.com/news/31834</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
+<description>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
+</item>
+<item>
+<title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
+<link>https://www.aibase.com/news/31837</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31837</guid>
+<description>Etsy宣布禁止平台销售AI生成食谱与手工图样 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 23 Oct 2026 09:04:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
